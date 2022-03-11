@@ -16,7 +16,7 @@ If G-Mail: input G-Mail address and password (see Notifications section for furt
 - Press 'Test Notification' button to verify credentials (expected outcome: "Connection successful" message received)
 - Switch to 'Modules' Tab
 - Use 'Fetch All' button to add exams you are currently registered for
-- Add additional modules as required (by module ID as found on QIS)
+- Add additional modules as required (by module ID as found on QIS or [here](https://github.com/bossletseb/QIS/blob/main/modules.json))
 - Press 'Run QIS' button for one-off validation or;
 - Set up task scheduler routine for regular validation -> use 'QIS.jar' as application to run
 
