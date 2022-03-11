@@ -15,7 +15,7 @@ If Telegram: input Telegram API Token and Chat ID (see Notifications section on 
 If G-Mail: input G-Mail address and password (see Notifications section for further instructions) <br/>
 - Press 'Test Notification' button to verify credentials (expected outcome: "Connection successful" message received)
 - Switch to 'Modules' Tab
-- Use 'Fetch All' button to add currently exams you are currently registered for
+- Use 'Fetch All' button to add exams you are currently registered for
 - Add additional modules as required (by module ID as found on QIS)
 - Press 'Run QIS' button for one-off validation or;
 - Set up task scheduler routine for regular validation -> use 'QIS.jar' as application to run
