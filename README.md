@@ -3,7 +3,7 @@ Checks for students at FH Aachen whether a new exam grade has been uploaded to t
 
 ## Before using the tool
 - Clone repository or download as ZIP, keeping all files in the same folder
-- Download [geckodriver](https://github.com/mozilla/geckodriver/releases/tag/v0.30.0) and place in the qis tool folder 
+- Download [geckodriver](https://github.com/mozilla/geckodriver/releases/tag/v0.30.0) and place in the same folder you just cloned/downloaded
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/browsers/) and [Java Runtime Environment 1.8](https://www.java.com/en/download/manual.jsp) must be installed
 
 ## How to use
