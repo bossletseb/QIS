@@ -7,16 +7,17 @@ Checks for students at FH Aachen whether a new exam grade has been uploaded to t
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/browsers/) and [Java Runtime Environment 1.8](https://www.java.com/en/download/manual.jsp) must be installed
 
 ## How to use
-- Open Configurator.jar
-- Input QIS credentials
-- Press Test QIS button to verify QIS credentials have been entered correctly
-- Input E-Mail credentials (G-Mail only)
-- Press Test E-Mail button to verify E-Mail credentials have been entered correctly
-- Change to Modules Tab
-- Use Fetch All button to add currently exams you are currently registered for
+- Open 'Configurator.jar'
+- Stay on 'General' tab and input QIS credentials
+- Press 'Test QIS' button to verify QIS credentials have been entered correctly
+- Select Notifications option in dropdown
+    If E-Mail: input E-Mail credentials (G-Mail only) and press 'Test Notification' button to verify credentials
+    If Telegram: input Telegram credentials and press 'Test Notification' button to verify credentials
+- Change to 'Modules' Tab
+- Use 'Fetch All' button to add currently exams you are currently registered for
 - Add additional modules as required (by module ID as found on QIS)
-- Press Run QIS button for one-off validation or;
-- Set up task scheduler routine for regular validation -> use QIS.jar as application to run
+- Press 'Run QIS' button for one-off validation or;
+- Set up task scheduler routine for regular validation -> use 'QIS.jar' as application to run
 
 ## Notifications
 - Telegram: [Follow step 1 to 3 on how to set up your own bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot) which will send you notifications, as well as [how to obtain the chat id](https://www.alphr.com/find-chat-id-telegram/#:~:text=still%20pretty%20nifty%3A-,Go%20to%20https%3A%2F%2Fweb.telegram.org.,are%20actually%20your%20chat%20ID) of your own bot 
