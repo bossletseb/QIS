@@ -1,5 +1,5 @@
 # QIS grade checking tool
-Checks for students at FH Aachen whether a new exam grade has been uploaded to the grade portal QIS and subsequently notifies them via email with their result
+Checks for students at FH Aachen whether a new exam grade has been uploaded to the grade portal QIS and subsequently notifies them with their result
 
 ## Before using the tool
 - Clone repository or download as ZIP, keeping all files in the same folder
