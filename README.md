@@ -1,5 +1,5 @@
 # QIS grade checking tool
-Checks for students at FH Aachen whether a new exam grade has been uploaded to the grade portal QIS and subsequently notifies them with their result
+Checks for students at FH Aachen whether a new exam grade has been uploaded to the grade portal [QIS](https://www.qis.fh-aachen.de/qisserver/rds?state=user&type=0) and subsequently notifies them with their result
 
 ## Before using the tool
 - Clone repository or download as ZIP, keeping all files in the same folder
@@ -8,7 +8,7 @@ Checks for students at FH Aachen whether a new exam grade has been uploaded to t
 
 ## How to use
 - Open 'Configurator.jar'
-- Stay on 'General' tab and input QIS credentials
+- Stay on 'General' tab and input credentials you use to log into [QIS](https://www.qis.fh-aachen.de/qisserver/rds?state=user&type=0)
 - Press 'Test QIS' button to verify QIS credentials have been entered correctly
 - Select Notifications option in dropdown
     If Telegram: input Telegram API Token and Chat ID (see Notifications section on how to get credentials)
