@@ -27,3 +27,5 @@ If G-Mail: input G-Mail address and password (see Notifications section for furt
 ### Current version is set up for students studying "Angewandte Mathematik und Informatik" (AMI) in Cologne. 
 - For all other degree programmes, add module id and name to modules.json, using the same format of the file provided.
 - If you are studying AMI but in Juelich (1) or Aachen (0), replace the fifth digit of each module with the number shown in the bracket.
+
+![Students simply input their exam details into the tool...](https://github.com/bossletseb/QIS/blob/main/left.png)![... to be automatically notified once exam results are published](https://github.com/bossletseb/QIS/blob/main/right.png)
