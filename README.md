@@ -11,6 +11,7 @@ Checks for students at FH Aachen whether a new exam grade has been uploaded to t
 - Stay on 'General' tab and input credentials you use to log into [QIS](https://www.qis.fh-aachen.de/qisserver/rds?state=user&type=0)
 - Press 'Test QIS' button to verify QIS credentials have been entered correctly
 - Select Notifications option in dropdown
+
     If Telegram: input Telegram API Token and Chat ID (see Notifications section on how to get credentials)
     If G-Mail: input G-Mail address and password (see Notifications section for further instructions) 
 - Press 'Test Notification' button to verify credentials (expected outcome: "Connection successful" message received on selected notification platform)
