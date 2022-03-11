@@ -18,7 +18,7 @@ If G-Mail: input G-Mail address and password (see Notifications section for furt
 - Use 'Fetch All' button to add exams you are currently registered for
 - Add additional modules as required (by module ID as found on QIS or [here](https://github.com/bossletseb/QIS/blob/main/modules.json))
 - Press 'Run QIS' button for one-off validation or;
-- Set up task scheduler routine for regular validation -> use 'QIS.jar' as application to run
+- Set up [task scheduler routine](https://www.digitalcitizen.life/how-create-task-basic-task-wizard/) for regular validation -> use 'QIS.jar' as application to run
 
 ## Notifications
 - Telegram: [Follow step 1 to 3 on how to set up your own bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot) which will send you notifications, as well as [how to obtain the chat id](https://www.alphr.com/find-chat-id-telegram/#:~:text=still%20pretty%20nifty%3A-,Go%20to%20https%3A%2F%2Fweb.telegram.org.,are%20actually%20your%20chat%20ID) of your own bot 
