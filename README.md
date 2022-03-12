@@ -21,7 +21,7 @@ If G-Mail: input G-Mail address and password (see Notifications section for furt
 - Set up [task scheduler routine](https://www.digitalcitizen.life/how-create-task-basic-task-wizard/) for regular validation -> use 'QIS.jar' as application to run
 
 ## Notifications
-- Telegram: Follow step 1 to 3 on [how to set up your own bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot) which will send you notifications, as well as [how to obtain the chat id](https://www.alphr.com/find-chat-id-telegram/#:~:text=still%20pretty%20nifty%3A-,Go%20to%20https%3A%2F%2Fweb.telegram.org.,are%20actually%20your%20chat%20ID) of your own bot. The FH Aachen chat theme for Telegram iOS can be found [here](https://t.me/addtheme/U83vIRqBwDZGR0S6) 
+- Telegram: Follow step 1 to 3 on [how to set up your own bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot) which will send you notifications, as well as [how to obtain the chat id](https://www.alphr.com/find-chat-id-telegram/#:~:text=still%20pretty%20nifty%3A-,Go%20to%20https%3A%2F%2Fweb.telegram.org.,are%20actually%20your%20chat%20ID) of your own bot. The FH Aachen bot theme for Telegram iOS can be found [here](https://t.me/addtheme/U83vIRqBwDZGR0S6) 
 - G-Mail: Instructions on [account settings required](https://support.google.com/a/answer/6260879?hl=en) to allow notifications 
 
 ### Current version is set up for students studying "Angewandte Mathematik und Informatik" (AMI) in Cologne. 
