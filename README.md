@@ -13,7 +13,7 @@ Checks for students at FH Aachen whether a new exam grade has been uploaded to t
 - Select Notifications option in dropdown <br/>
 If Telegram: input Telegram API Token and Chat ID (see Notifications section on how to get credentials) <br/>
 If G-Mail: input G-Mail address and password (see Notifications section for further instructions) <br/>
-- Press 'Test Notification' button to verify credentials (expected outcome: ["Connection successful"](https://github.com/bossletseb/QIS/blob/main/Assets/FH%20Aachen%20bot.png) message)
+- Press 'Test Notification' button to verify credentials (expected outcome: ["Connection successful"](https://github.com/bossletseb/QIS/blob/main/Assets/FH%20Aachen%20chat%20bot.png) message)
 - Switch to 'Modules' Tab
 - Use 'Fetch All' button to add exams you are currently registered for
 - Add additional modules as required (by module ID as found on QIS or [here](https://github.com/bossletseb/QIS/blob/main/modules.json))
